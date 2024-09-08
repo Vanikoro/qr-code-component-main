@@ -20,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: (https://github.com/Vanikoro/challenges/qr-code-component-main)
+- Solution URL: (https://vanikoro.github.io/qr-code-component-main/)
 
 ## My process
 
@@ -34,6 +34,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Vanikoro)
+- Frontend Mentor - [@Vanikoro](https://www.frontendmentor.io/profile/Vanikoro)
 
 
